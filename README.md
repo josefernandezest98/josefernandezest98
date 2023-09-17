@@ -7,7 +7,7 @@ My name is José Fernández, and I am a Mathematician who works as a Data Scient
 * AI (although right now I am more specialized in ML)
 * Statistics
 * Linear Algebra and Galois Theory
-* Drapper Semi Analytical Satellite Theory
+* Draper Semi Analytical Satellite Theory
 * Measure Theory and Ito's Theory
   
 
